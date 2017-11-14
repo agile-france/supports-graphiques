@@ -13,11 +13,12 @@ Les supports graphiques réalisés par Jean-Pierre Bonnafous à l'occasion de la
 
 ## Licence
 
-Ces supports sont fournis sous une licence CC-BY-NC-SA « AgileFrance 2017 », c'est-à-dire que vous avez le droit de les imprimer, les diffuser et les modifier sous quelque forme que ce soit, dès lors que :
+Ces supports sont fournis sous une licence [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) « Jean-Pierre Bonnafous de l’équipe d’organisation de la conférence AgileFrance 2017 », c'est-à-dire que vous avez le droit de les imprimer, les diffuser et les modifier sous quelque forme que ce soit, dès lors que :
 
-1. Vous en attribuez la source à «  AgileFrance 2017 » (ou un équivalent comme « Jean-Pierre Bonnafous de l’équipe d’organisation de la conférence AgileFrance 2017 »).
-2. Vous ne monétisez pas cette diffusion.
-3. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
+1. Vous en attribuez la source à « Jean-Pierre Bonnafous de l’équipe d’organisation de la conférence AgileFrance 2017 » (ou un équivalent donnant explicitement ce nom et ce contexte).
+2. Si la diffusion se fait sur un support électronique, vous faites un lien vers ce dépôt.
+3. Vous ne monétisez pas cette diffusion.
+4. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
 
 
 ## Pourquoi diffuser ces supports ?
