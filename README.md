@@ -38,9 +38,14 @@ Ces supports sont fournis sous une licence [CC-BY-NC-SA 4.0](https://creativecom
 4. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
 
 
-## Pourquoi diffuser ces supports ?
+## Diffusion
 
-L'association AgileFrance ayant pour objet de soutenir la diffusion non-marchande des pratiques de l'agilité, il nous a semblé pertinent de faciliter la réutilisation de ces supports de grande qualité produits bénévolement par Jean-Pierre Bonnafous avec l'aide de @JulienPorot à l'occasion de la conférence AgileFrance 2017.
-En tant que membre de l'association AgileFrance, @MattiSG a donc consolidé et fourni ces supports sous une licence libre (avec évidemment l'accord des auteurs) pour que la communauté agiliste francophone puisse s'en emparer.
+L'association AgileFrance a pour objet de soutenir la diffusion non-marchande des pratiques de l'agilité. Il nous a semblé pertinent de faciliter la réutilisation de ces supports de grande qualité produits bénévolement à l'occasion de la conférence AgileFrance 2017.
 
-Nous espérons ainsi faciliter la diffusion des bonnes pratiques éprouvées que sont le forum ouvert et les sous-rires, et donner plus facilement un aspect professionnel aux événements communautaires.
+Nous espérons ainsi faciliter la diffusion des bonnes pratiques éprouvées que sont le forum ouvert et les sous-rires, et donner plus facilement un aspect professionnel aux événements communautaires pour en élargir le public.
+
+### Crédits
+
+- Réalisation : Jean-Pierre Bonnafous
+- Direction : Julien Porot
+- Diffusion : Matti Schneider
