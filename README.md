@@ -1,6 +1,6 @@
 # Supports graphiques d'AgileFrance 2017
 
-Les supports graphiques réalisés par Jean-Pierre Bonnafous à l'occasion de la conférence AgileFrance 2017.
+Des supports graphiques libres pour les événements agiles communautaires. Réalisés par Jean-Pierre Bonnafous à l'occasion de la conférence AgileFrance 2017.
 
 
 ## Contenu
