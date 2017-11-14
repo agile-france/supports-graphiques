@@ -19,7 +19,7 @@ Pour marquer chacun des lieux de rencontre lors d'un forum ouvert ou d'un barcam
 
 ### Sou-rire
 
-Planches de sou-rire dessinés et préassemblés pour des impressions en A4. Pour faciliter les rencontres lors d'une (non-)conférence. Distribuez 5 à 10 sou-rire à chaque participant·e, qui a pour mission d'en offrir à chaque autre participant·e qui lui aura apporté quelque chose.
+Planches de sou-rire dessinés et préassemblés pour des impressions en A4. Pour faciliter les rencontres lors d'une (non-)conférence. Distribuez 5 à 10 sou-rire à chaque participant·e, avec pour mission d'en offrir à chaque autre participant·e qui lui aura apporté quelque chose.
 
 ![Sou-rire](Exemples/Sou-rire.png)
 
