@@ -5,25 +5,25 @@ Des supports graphiques libres pour les événements agiles communautaires. Réa
 
 ## Contenu
 
-### Forum ouvert
+### [Forum ouvert](https://github.com/agile-france/supports-graphiques/tree/master/Forum%20ouvert)
 
 Pour toute activité de facilitation d'un forum ouvert, récapitulatif des règles à imprimer (de préférence en A2).
 
 ![Panneaux d'un forum ouvert](Exemples/Règles.jpg)
 
-### Pictogrammes
+### [Pictogrammes](https://github.com/agile-france/supports-graphiques/tree/master/Forum%20ouvert/Pictos)
 
 Pour marquer chacun des lieux de rencontre lors d'un forum ouvert ou d'un barcamp.
 
 ![Pictogrammes des lieux d'un forum ouvert](Exemples/Pictos.png)
 
-### Sou-rire
+### [Sou-rire](https://github.com/agile-france/supports-graphiques/blob/master/Sous-rire.pdf)
 
 Planches de sou-rire dessinés et préassemblés pour des impressions en A4. Pour faciliter les rencontres lors d'une (non-)conférence. Distribuez 5 à 10 sou-rire à chaque participant·e, avec pour mission d'en offrir à chaque autre participant·e qui lui aura apporté quelque chose.
 
 ![Sou-rire](Exemples/Sou-rire.png)
 
-### Plans et programmes
+### [Plans](https://github.com/agile-france/supports-graphiques/tree/master/Panneaux) et [programmes](https://github.com/agile-france/supports-graphiques/tree/master/Programme)
 
 Des exemples de panneaux, de plans et de programme peuvent vous aider à préparer votre conférence.
 
