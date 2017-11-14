@@ -5,10 +5,27 @@ Les supports graphiques réalisés par Jean-Pierre Bonnafous à l'occasion de la
 
 ## Contenu
 
-- Pour toute activité de facilitation d'un forum ouvert, les **panneaux illustratifs des règles d'un forum ouvert** pourront vous être très utiles.
-- Des **pictogrammes** vous permettent de marquer chacun des lieux de rencontre lors d'un forum ouvert ou d'un barcamp.
-- Des **sous-rire** dessinés et préassemblés pour des impressions en A4 vous permettront d'animer une (non-)conférence.
-- Des exemples de panneaux, de plans et de programme peuvent vous aider à préparer votre conférence.
+### Forum ouvert
+
+Pour toute activité de facilitation d'un forum ouvert, récapitulatif des règles à imprimer (de préférence en A2).
+
+![Panneaux d'un forum ouvert](Exemples/Règles.jpg)
+
+### Pictogrammes
+
+Pour marquer chacun des lieux de rencontre lors d'un forum ouvert ou d'un barcamp.
+
+![Pictogrammes des lieux d'un forum ouvert](Exemples/Pictos.png)
+
+### Sous-rire
+
+Des sous-rire dessinés et préassemblés pour des impressions en A4 vous permettront d'animer une (non-)conférence.
+
+![Sous-rires](Exemples/Sous-rire.png)
+
+### Plans et programmes
+
+Des exemples de panneaux, de plans et de programme peuvent vous aider à préparer votre conférence.
 
 
 ## Licence
